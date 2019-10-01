@@ -1,0 +1,32 @@
+.navbar
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(117, 117, 117, 0.39);
+    top: 0;
+    width: 100%;
+    position: fixed;
+    right: 0;
+    height: 60px;
+} 
+
+a:link, a:visited {
+
+    color: rgb(255, 255, 255);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:120%;
+    font-family:cursive;
+}
+
+a:hover, a:active {
+
+    color:hotpink;
+}
+img
+{
+    padding-left:85px;
+}
